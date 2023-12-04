@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pedro Campelo
-- 👀 I’m interested in web programming
+- 👀 Deeply interested in software development
 - ❤️ Loved languages: Java, MySQL, HTML and CSS
 - 🌱 Currently learning: PHP and Javascript
 - 📫 Reach me on: work.pedrocampelo@gmail.com
