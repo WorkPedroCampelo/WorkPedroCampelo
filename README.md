@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pedro Campelo
 - 👀 Deeply interested in software development
 - ❤️ Loved languages: Java, MySQL, HTML and CSS
-- 🌱 Currently learning: PHP and Javascript
+- 🌱 Currently learning: PHP, Javascript and Tilwind
 - 📫 Reach me on: work.pedrocampelo@gmail.com
 
 <!---
