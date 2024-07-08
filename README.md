@@ -1,5 +1,5 @@
 # 💫 Hi , I’m Pedro Campelo
-- 👀 Deeply interested in software development<br>- ❤️ Loved languages: Java, MySQL, HTML and CSS<br>- 🌱 Currently learning: PHP, Javascript and Tailwind<br>- 📫 Reach me on: work.pedrocampelo@gmail.com<br>- 👌 else   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-campelo-rico/)
+- 👀 Deeply interested in software development<br>- ❤️ Loved languages: Java, MySQL, HTML and CSS<br>- 🌱 Currently learning: PHP, Javascript and Tailwind<br>- 📫 Reach me on: work.pedrocampelo@gmail.com or  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-campelo-rico/)
 
 
 # 💻 Tech Stack:
