@@ -16,7 +16,6 @@ Anyways I get it, you want to know my tech stack. The languages that I've used >
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WorkPedroCampelo&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WorkPedroCampelo&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WorkPedroCampelo&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
