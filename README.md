@@ -4,16 +4,17 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Python and IA Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Graduated on vocational training of web develpment .
-- 💼 &nbsp; Full-stack web dev looking for new horizons.
-- 🌱 &nbsp; Enthusiast in AI and the tech enviroment.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Graduated in vocational training in web development.
+- 💼 &nbsp; Full-stack web developer looking for new horizons.
+- 🌱 &nbsp; Enthusiast in AI and the tech environment.
   
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Angular(Typescript) | NodeJs(Javascript) | Python | Java | HTML & CSS  
-- 🛢 &nbsp; MySQL | PostgreSQL | Xampp
-- 🔧 &nbsp; Visual Studio code | Git | Docker 
+- 💻 &nbsp; Angular (TypeScript) | Node.js (JavaScript) | Python | Java | HTML & CSS  
+- 🛢 &nbsp; MySQL | PostgreSQL | XAMPP
+- 🔧 &nbsp; Visual Studio Code | Git | Docker 
+
 </br>
 
 
